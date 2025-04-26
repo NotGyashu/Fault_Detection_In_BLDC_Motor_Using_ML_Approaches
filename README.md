@@ -38,28 +38,28 @@ The trained ML models demonstrated high accuracy in distinguishing healthy and f
 ## Screenshots
 
 ### 1. BLDC Motor Model in Simulink
-![BLDC Motor Model](./assets/Screenshot%202025-04-12%20151115.png)
+![BLDC Motor Model](./Screenshot%202025-04-12%20151115.png)
 
 ### 2. Hall Sensor and Commutation Logic
-![Hall Sensor Logic](./assets/Screenshot%202025-04-12%20154529.png)
+![Hall Sensor Logic](./Screenshot%202025-04-12%20154529.png)
 
 ### 3. Motor Back-EMF Monitoring and Validation
-![Back EMF Validation](./assets/Screenshot%202025-04-14%20225107.png)
+![Back EMF Validation](./Screenshot%202025-04-14%20225107.png)
 
 ### 4. Simulation of Fault Scenarios
-![Fault Injection Simulation](./assets/Screenshot%202025-04-14%20225141.png)
+![Fault Injection Simulation](./Screenshot%202025-04-14%20225141.png)
 
 ### 5. Output Analysis - Current and Voltage Waveforms
-![Waveform Analysis](./assets/Screenshot%202025-04-14%20225429.png)
+![Waveform Analysis](./Screenshot%202025-04-14%20225429.png)
 
 ### 6. Data Extraction and Recording
-![Data Extraction](./assets/Screenshot%202025-04-14%20225628.png)
+![Data Extraction](./Screenshot%202025-04-14%20225628.png)
 
 ### 7. Feature Engineering and Preprocessing
-![Feature Engineering](./assets/Screenshot%202025-04-15%20021236.png)
+![Feature Engineering](./Screenshot%202025-04-15%20021236.png)
 
 ### 8. Machine Learning Model Training and Evaluation
-![ML Model Training](./assets/Screenshot%202025-04-20%20232202.png)
+![ML Model Training](./Screenshot%202025-04-20%20232202.png)
 
 ## Conclusion
 The project successfully demonstrates how Machine Learning techniques can be applied to BLDC motor fault detection. By generating a synthetic yet realistic dataset from simulations and training ML models, predictive maintenance strategies can be significantly enhanced, ensuring greater system reliability and performance.
